@@ -1,0 +1,33 @@
+/* *{
+ background-color: black;   
+} */
+h1{
+    text-align: center;
+    margin: 50px;
+}
+form{
+    color:black;
+    text-align: center;
+    margin: 50px;
+}
+input{
+    margin:10px;
+}
+.btns{
+    padding: 20px;
+    text-align: center;
+}
+button{
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    height: 35px;
+    width: 180px;
+    background-color:skyblue;
+    color:white;
+    margin: 30px;
+    cursor: pointer;
+}
+.link{
+    color:rgb(33, 184, 243);
+}
